@@ -1,0 +1,1 @@
+Test Django +DRF + VueJS
